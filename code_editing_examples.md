@@ -1,12 +1,12 @@
-# Code editing example
+# 代码编辑实例
 
-OpenAI's [edits](https://openai.com/blog/gpt-3-edit-insert/) endpoint is particularly useful for editing code.
+OpenAI的[edits](https://openai.com/blog/gpt-3-edit-insert/)端点对于编辑代码特别有用。
 
-Unlike completions, edits takes two inputs: the text to edit and an instruction.
+与补全不同，edits需要两个输入：要编辑的文本和一条指令。
 
-For example, if you wanted to edit a Python function, you could supply the text of the function and an instruction like "add a docstring".
+例如，如果你想编辑一个Python函数，你可以提供该函数的文本和一个指令，如 "add a docstring"。
 
-Example text input to `code-davinci-edit-001`:
+输入`code-davinci-edit-001`的文本示例。
 
 ```python
 def tribonacci(n):
@@ -22,7 +22,7 @@ def tribonacci(n):
         return tribonacci(n-1) + tribonacci(n-2) + tribonacci(n-3)
 ```
 
-Example instruction inputs:
+示例指令输入:
 
 ```text
 add a docstring
@@ -44,7 +44,7 @@ Add a test.
 Translate to JavaScript (or Rust or Lisp or any language you like)
 ```
 
-Example output after improving the runtime and translating to JavaScript:
+改进运行时间并翻译成JavaScript后的输出示例:
 
 ```JavaScript
 function tribonacci(n) {
@@ -58,6 +58,6 @@ function tribonacci(n) {
 }
 ```
 
-As you can see, `code-davinci-edit-001` was able to successfully reduce the function's runtime from exponential down to linear, as well as convert from Python to JavaScript.
+正如你所看到的，`code-davinci-edit-001`能够成功地将函数的运行时间从指数级降低到线性，以及从Python转换到JavaScript。
 
-Experiment with code editing using `code-davinci-edit-001` in the [OpenAI Playground](https://beta.openai.com/playground?mode=edit&model=code-davinci-edit-001).
+在 [OpenAI Playground](https://beta.openai.com/playground?mode=edit&model=code-davinci-edit-001)中使用`code-davinci-edit-001`进行代码编辑实验。
