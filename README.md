@@ -4,6 +4,7 @@
 
 !(openai-logo)[https://raw.githubusercontent.com/imcda/openai-cookbook-zh-cn/main/images/OpenAI_Logo.svg.png]
 
+
 OpenAI 中文手册分享了使用 [OpenAI API] 完成常见任务的示例代码。
 
 要运行这些例子，你需要一个OpenAI账户和相关的API密钥（[创建一个免费账户][API Signup]).
@@ -12,9 +13,9 @@ OpenAI 中文手册分享了使用 [OpenAI API] 完成常见任务的示例代�
 
 ## 指南 & 示例
 
-* API usage
-  * [How to handle rate limits](examples/How_to_handle_rate_limits.ipynb)
-    * [Example parallel processing script that avoids hitting rate limits](examples/api_request_parallel_processor.py)
+* API 的使用情况
+  * [如何处理请求频率限制](examples/How_to_handle_rate_limits.ipynb)
+    * [避免触及请求频率限制的并行处理脚本示例](examples/api_request_parallel_processor.py)
   * [How to count tokens with tiktoken](examples/How_to_count_tokens_with_tiktoken.ipynb)
   * [How to stream completions](examples/How_to_stream_completions.ipynb)
 * GPT-3
