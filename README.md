@@ -48,19 +48,19 @@ OpenAI 中文手册分享了使用 [OpenAI API] 完成常见任务的示例代�
 
 ## Related resources
 
-Beyond the code examples here, you can learn about the [OpenAI API] from the following resources:
+除了这里的代码示例，你可以从以下资源中了解 [OpenAI API] :
 
-* Try out the API in the [OpenAI Playground]
-* Read about the API in the [OpenAI Documentation]
-* Discuss the API in the [OpenAI Community Forum]
-* Look for help in the [OpenAI Help Center]
-* See example prompts in the [OpenAI Examples]
-* Play with a free research preview of [ChatGPT]
-* Stay up to date with the [OpenAI Blog]
+* 在试验室 [OpenAI Playground] 试试 API 的使用效果
+* 在文档 [OpenAI Documentation] 了解 API 的使用方法
+* 在论坛 [OpenAI Community Forum] 讨论 API 的使用经验
+* 在帮助中心 [OpenAI Help Center] 寻求使用问题的帮助
+* 在案例库 [OpenAI Examples] 找到更多使用案例
+* 或者不如亲自上手体验一下神奇的 [ChatGPT] 吧
+* 别忘了，在博客 [OpenAI Blog] 第一时间跟进我们的最新消息
 
-## Contributing
+## 贡献
 
-If there are examples or guides you'd like to see, feel free to suggest them on the [issues page].
+如果有你想看到的示例或指南，请随时在 [issues page] 提出你的需求.
 
 [ChatGPT]: https://chat.openai.com/
 [OpenAI API]: https://openai.com/api/
