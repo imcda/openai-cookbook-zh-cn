@@ -60,4 +60,4 @@ function tribonacci(n) {
 
 正如你所看到的，`code-davinci-edit-001`能够成功地将函数的运行时间从指数级降低到线性，以及从Python转换到JavaScript。
 
-在 [OpenAI Playground](https://beta.openai.com/playground?mode=edit&model=code-davinci-edit-001)中使用`code-davinci-edit-001`进行代码编辑实验。
+在 [OpenAI Playground](https://beta.openai.com/playground?mode=edit&model=code-davinci-edit-001) 中使用 `code-davinci-edit-001` 进行代码编辑实验。
