@@ -2,7 +2,7 @@
 
 # OpenAI 中文手册（OpenAI Cookbook)
 
-!(openai-logo)[https://raw.githubusercontent.com/imcda/openai-cookbook-zh-cn/main/images/OpenAI_Logo.svg.png]
+![openai-logo](https://raw.githubusercontent.com/imcda/openai-cookbook-zh-cn/main/images/OpenAI_Logo.svg.png)
 
 OpenAI 中文手册分享了使用 [OpenAI API] 完成常见任务的示例代码。
 
