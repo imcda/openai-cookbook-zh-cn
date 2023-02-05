@@ -1,6 +1,8 @@
-# OpenAI Cookbook
 
-The OpenAI Cookbook shares example code for accomplishing common tasks with the [OpenAI API].
+
+# OpenAI 中文手册（OpenAI Cookbook)
+
+OpenAI 中文手册分享了使用[OpenAI API]完成常见任务的示例代码。
 
 To run these examples, you'll need an OpenAI account and associated API key ([create a free account][API Signup]).
 
