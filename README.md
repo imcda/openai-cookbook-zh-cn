@@ -80,3 +80,4 @@ OpenAI 中文手册分享了使用 [OpenAI API] 完成常见任务的示例代�
 ## 是否有更好更准确的翻译
 1. token
 2. How_to_stream_completions
+3. Embeddings
