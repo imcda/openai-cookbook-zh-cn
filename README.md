@@ -2,13 +2,15 @@
 
 # OpenAI 中文手册（OpenAI Cookbook)
 
-OpenAI 中文手册分享了使用[OpenAI API]完成常见任务的示例代码。
+!()[images/OpenAI_Logo.svg.png]
 
-To run these examples, you'll need an OpenAI account and associated API key ([create a free account][API Signup]).
+OpenAI 中文手册分享了使用 [OpenAI API] 完成常见任务的示例代码。
 
-Most code examples are written in Python, though the concepts can be applied in any language.
+要运行这些例子，你需要一个OpenAI账户和相关的API密钥（[创建一个免费账户][API Signup]).
 
-## Guides & examples
+大多数代码示例是用Python编写的，尽管这些概念可以应用于任何语言。
+
+## 指南 & 示例
 
 * API usage
   * [How to handle rate limits](examples/How_to_handle_rate_limits.ipynb)
