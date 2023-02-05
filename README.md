@@ -4,7 +4,6 @@
 
 !(openai-logo)[https://raw.githubusercontent.com/imcda/openai-cookbook-zh-cn/main/images/OpenAI_Logo.svg.png]
 
-
 OpenAI 中文手册分享了使用 [OpenAI API] 完成常见任务的示例代码。
 
 要运行这些例子，你需要一个OpenAI账户和相关的API密钥（[创建一个免费账户][API Signup]).
@@ -16,11 +15,11 @@ OpenAI 中文手册分享了使用 [OpenAI API] 完成常见任务的示例代�
 * API 的使用情况
   * [如何处理请求频率限制](examples/How_to_handle_rate_limits.ipynb)
     * [避免触及请求频率限制的并行处理脚本示例](examples/api_request_parallel_processor.py)
-  * [How to count tokens with tiktoken](examples/How_to_count_tokens_with_tiktoken.ipynb)
-  * [How to stream completions](examples/How_to_stream_completions.ipynb)
+  * [如何用 tiktoken 计算 token](examples/How_to_count_tokens_with_tiktoken.ipynb)
+  * [如何串联补全](examples/How_to_stream_completions.ipynb)
 * GPT-3
-  * [Guide: How to work with large language models](how_to_work_with_large_language_models.md)
-  * [Guide: Techniques to improve reliability](techniques_to_improve_reliability.md)
+  * [指南：如何运行大型语言模型](how_to_work_with_large_language_models.md)
+  * [指南：提高可靠性的技术](techniques_to_improve_reliability.md)
   * [How to use a multi-step prompt to write unit tests](examples/Unit_test_writing_using_a_multi-step_prompt.ipynb)
   * [Text writing examples](text_writing_examples.md)
   * [Text explanation examples](text_explanation_examples.md)
