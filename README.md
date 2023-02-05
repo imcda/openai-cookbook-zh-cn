@@ -2,7 +2,7 @@
 
 # OpenAI 中文手册（OpenAI Cookbook)
 
-![openai-logo](https://raw.githubusercontent.com/imcda/openai-cookbook-zh-cn/main/images/OpenAI_Logo.svg.png)
+![openai-logo](https://raw.githubusercontent.com/imcda/openai-cookbook-zh-cn/main/images/OpenAI_Logo.png)
 
 OpenAI 中文手册分享了使用 [OpenAI API] 完成常见任务的示例代码。
 
@@ -20,7 +20,7 @@ OpenAI 中文手册分享了使用 [OpenAI API] 完成常见任务的示例代�
 * GPT-3
   * [指南：如何运行大型语言模型](how_to_work_with_large_language_models.md)
   * [指南：提高可靠性的技术](techniques_to_improve_reliability.md)
-  * [How to use a multi-step prompt to write unit tests](examples/Unit_test_writing_using_a_multi-step_prompt.ipynb)
+  * [如何使用多步骤提示来编写单元测试](examples/Unit_test_writing_using_a_multi-step_prompt.ipynb)
   * [Text writing examples](text_writing_examples.md)
   * [Text explanation examples](text_explanation_examples.md)
   * [Text editing examples](text_editing_examples.md)
@@ -72,3 +72,11 @@ If there are examples or guides you'd like to see, feel free to suggest them on 
 [OpenAI Examples]: https://beta.openai.com/examples
 [OpenAI Blog]: https://openai.com/blog/
 [issues page]: https://github.com/openai/openai-cookbook/issues
+
+# 更多探讨
+
+在翻译过程中，我也发现自己能力的不足，在一些词的翻译上，无法找到准确的表达，我使用了原词，同时有些词我按照我的理解做了翻译，但仍觉得不够完美，将他们罗列在下面，供大家共同讨论，欢迎大家在 issue 中一起讨论。
+
+## 是否有更好更准确的翻译
+1. token
+2. How_to_stream_completions
