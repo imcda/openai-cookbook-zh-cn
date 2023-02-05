@@ -73,11 +73,11 @@ OpenAI 中文手册分享了使用 [OpenAI API] 完成常见任务的示例代�
 [OpenAI Blog]: https://openai.com/blog/
 [issues page]: https://github.com/openai/openai-cookbook/issues
 
-# 更多探讨
+## 更多探讨
 
 在翻译过程中，我也发现自己能力的不足，在一些词的翻译上，无法找到准确的表达，我使用了原词，同时有些词我按照我的理解做了翻译，但仍觉得不够完美，将他们罗列在下面，供大家共同讨论，欢迎大家在 issue 中一起讨论。
 
-## 是否有更好更准确的翻译
+### 是否有更好更准确的翻译
 1. token
 2. How_to_stream_completions
 3. Embeddings
