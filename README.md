@@ -21,32 +21,32 @@ OpenAI 中文手册分享了使用 [OpenAI API] 完成常见任务的示例代�
   * [指南：如何运行大型语言模型](how_to_work_with_large_language_models.md)
   * [指南：提高可靠性的技术](techniques_to_improve_reliability.md)
   * [如何使用多步骤提示来编写单元测试](examples/Unit_test_writing_using_a_multi-step_prompt.ipynb)
-  * [Text writing examples](text_writing_examples.md)
-  * [Text explanation examples](text_explanation_examples.md)
-  * [Text editing examples](text_editing_examples.md)
-  * [Code writing examples](code_writing_examples.md)
-  * [Code explanation examples](code_explanation_examples.md)
-  * [Code editing examples](code_editing_examples.md)
-* Embeddings
-  * [Text comparison examples](text_comparison_examples.md)
-  * [How to get embeddings](examples/Get_embeddings.ipynb)
-  * [Question answering using embeddings](examples/Question_answering_using_embeddings.ipynb)
-  * [Semantic search using embeddings](examples/Semantic_text_search_using_embeddings.ipynb)
-  * [Recommendations using embeddings](examples/Recommendation_using_embeddings.ipynb)
-  * [Clustering embeddings](examples/Clustering.ipynb)
-  * [Visualizing embeddings in 2D](examples/Visualizing_embeddings_in_2D.ipynb) or [3D](examples/Visualizing_embeddings_in_3D.ipynb)
-  * [Embedding long texts](examples/Embedding_long_inputs.ipynb)
-* Fine-tuning GPT-3
-  * [Guide: best practices for fine-tuning GPT-3 to classify text](https://docs.google.com/document/d/1rqj7dkuvl7Byd5KQPUJRxc19BJt8wo0yHNwK84KfU3Q/edit)
-  * [Fine-tuned classification](examples/Fine-tuned_classification.ipynb)
+  * [文本写作范例](text_writing_examples.md)
+  * [文本解释实例](text_explanation_examples.md)
+  * [文本编辑实例](text_editing_examples.md)
+  * [代码编写实例](code_writing_examples.md)
+  * [代码解释实例](code_explanation_examples.md)
+  * [代码编辑实例](code_editing_examples.md)
+* 词向量
+  * [文本比较实例](text_comparison_examples.md)
+  * [如何获得词向量](examples/Get_embeddings.ipynb)
+  * [使用词向量回答问题](examples/Question_answering_using_embeddings.ipynb)
+  * [使用词向量的语义搜索](examples/Semantic_text_search_using_embeddings.ipynb)
+  * [使用词向量的建议](examples/Recommendation_using_embeddings.ipynb)
+  * [对词向量进行聚类](examples/Clustering.ipynb)
+  * [在 2D 中可视化词向量](examples/Visualizing_embeddings_in_2D.ipynb) 或 [3D](examples/Visualizing_embeddings_in_3D.ipynb)
+  * [词向量长文本](examples/Embedding_long_inputs.ipynb)
+* 微调 GPT-3
+  * [指南：微调 GPT-3 对文本进行分类的最佳做法](https://docs.google.com/document/d/1rqj7dkuvl7Byd5KQPUJRxc19BJt8wo0yHNwK84KfU3Q/edit)
+  * [微调分类](examples/Fine-tuned_classification.ipynb)
 * DALL-E
-  * [How to generate and edit images with DALL-E](examples/dalle/Image_generations_edits_and_variations_with_DALL-E.ipynb)
-* Azure OpenAI (alternative API from Microsoft Azure)
-  * [How to get completions from Azure OpenAI](examples/azure/completions.ipynb)
-  * [How to get embeddings from Azure OpenAI](examples/azure/embeddings.ipynb)
-  * [How to fine-tune GPT-3 with Azure OpenAI](examples/azure/finetuning.ipynb)
+  * [如何用 DALL-E 生成和编辑图像](examples/dalle/Image_generations_edits_and_variations_with_DALL-E.ipynb)
+* Azure OpenAI(基于微软 Azure 的 OpenAI)
+  * [如何从 Azure OpenAI 获取补全功能](examples/azure/completions.ipynb)
+  * [如何从 Azure OpenAI 获取词向量功能](examples/azure/embeddings.ipynb)
+  * [如何用 Azure OpenAI 微调 GPT-3](examples/azure/finetuning.ipynb)
 
-## Related resources
+## 相关资源
 
 除了这里的代码示例，你可以从以下资源中了解 [OpenAI API] :
 
