@@ -27,15 +27,15 @@ OpenAI 中文手册分享了使用 [OpenAI API] 完成常见任务的示例代�
   * [代码编写实例](code_writing_examples.md)
   * [代码解释实例](code_explanation_examples.md)
   * [代码编辑实例](code_editing_examples.md)
-* 词向量
+* 词嵌入
   * [文本比较实例](text_comparison_examples.md)
-  * [如何获得词向量](examples/Get_embeddings.ipynb)
-  * [使用词向量回答问题](examples/Question_answering_using_embeddings.ipynb)
-  * [使用词向量的语义搜索](examples/Semantic_text_search_using_embeddings.ipynb)
-  * [使用词向量的建议](examples/Recommendation_using_embeddings.ipynb)
-  * [对词向量进行聚类](examples/Clustering.ipynb)
-  * [在 2D 中可视化词向量](examples/Visualizing_embeddings_in_2D.ipynb) 或 [3D](examples/Visualizing_embeddings_in_3D.ipynb)
-  * [词向量长文本](examples/Embedding_long_inputs.ipynb)
+  * [如何获得词嵌入](examples/Get_embeddings.ipynb)
+  * [使用词嵌入回答问题](examples/Question_answering_using_embeddings.ipynb)
+  * [使用词嵌入的语义搜索](examples/Semantic_text_search_using_embeddings.ipynb)
+  * [使用词嵌入的建议](examples/Recommendation_using_embeddings.ipynb)
+  * [对词嵌入进行聚类](examples/Clustering.ipynb)
+  * [在 2D 中可视化词嵌入](examples/Visualizing_embeddings_in_2D.ipynb) 或 [3D](examples/Visualizing_embeddings_in_3D.ipynb)
+  * [词嵌入长文本](examples/Embedding_long_inputs.ipynb)
 * 微调 GPT-3
   * [指南：微调 GPT-3 对文本进行分类的最佳做法](https://docs.google.com/document/d/1rqj7dkuvl7Byd5KQPUJRxc19BJt8wo0yHNwK84KfU3Q/edit)
   * [微调分类](examples/Fine-tuned_classification.ipynb)
